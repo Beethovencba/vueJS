@@ -1,0 +1,18 @@
+
+O que fazer hoje? 
+
+23/10/23 | 1 - pesquisar sobre ajax                                 status : OK
+         | 2 - adaptar o trexo do codigo:                           status : OK
+
+24/10/23 | 1 -  Decidir onde vai ficar o cadastro de veiculo        status : OK
+         | 2 -  Capturar e tratar os dados coletados                status : OK
+         | 3 -  Decidir quais informações serao salvas e o que      status : OK
+                fazer com elas (preço fipe) 
+         | 4 -  Limpar o codigo (apagar os css's nao utilizados e   
+                retirar os console.log desnecessarios do script)    status : OK
+         
+
+25/10/23 | 1 -  Construir banco de dados cadastroVeicular (28/10)   status : OK
+
+29/10/23 | 1 - Organizar as estruturas dos formulario              status : Em andamento
+         | 2 - Decidir se ira implementar novo stilo de formulario status : OK - alteração feita

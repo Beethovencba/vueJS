@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.windowsEnableConpty": true,
+    "git.ignoreLimitWarning": true
+}

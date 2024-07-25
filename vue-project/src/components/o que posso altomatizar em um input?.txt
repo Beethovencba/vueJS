@@ -1,0 +1,13 @@
+o que posso altomatizar em um input?
+
+:id=""       praque? para referencia-lo e manipula-lo se necessario
+:size=""     praque? regular o tamanho quando necessario
+:type=""     praque? pra definir qual o tipo de input
+:placeholder praque? para definir descrição dentro do input
+v-model      praque? para manipular o input
+:state       praque? Para controlar o estado (altenticação) de meu inputs
+
+
+o que tenho de resetar?
+
+carData,
